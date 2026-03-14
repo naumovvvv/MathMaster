@@ -35,13 +35,13 @@ MathMaster помогает выучить и закрепить знание т
 
 ## Блок-схема алгоритма
 
-![Блок-схема](images/Diagram.png)
+[![Блок-схема](images/Diagram.drawio.png)](images/Diagram.drawio.png)
+
 
 ## Use Case диаграмма
 
-![Use Case](images/Use_case.png)
 
-"Add diagrams to README"
+
 
 
 
