@@ -40,6 +40,7 @@ MathMaster помогает выучить и закрепить знание т
 
 ## Use Case диаграмма
 
+[![Use-case](images/Use_case.drawio.png)](images/Use_case.drawio.png)
 
 
 
